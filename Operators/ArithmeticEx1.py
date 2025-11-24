@@ -1,0 +1,15 @@
+#Program for demontrating Arthematic Operator
+#ArithematicEx1.py
+a = int(input("Enter Value of a:"))
+b = int(input("Enter Value of b:"))
+print("="*50)
+print("\tARITHEMATIC OPERATORS RESULTS")
+print("="*50)
+print("\t{}+{}={}".format(a,b,a+b))
+print("\t{}-{}={}".format(a,b,a-b))
+print("\t{}*{}={}".format(a,b,a*b))
+print("\t{}/{}={}".format(a,b,a/b))
+print("\t{}//{}={}".format(a,b,a//b))
+print("\t{}%{}={}".format(a,b,a%b))
+print("\t{}**{}={}".format(a,b,a**b))
+print("="*50)
